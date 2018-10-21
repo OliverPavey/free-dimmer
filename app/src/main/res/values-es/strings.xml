@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atenuador libre</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_help">Actividad de ayuda</string>
+    <string name="title_activity_manual">Actividad manual</string>
+    <string name="strDimmerOnOff">Atenuador de encendido / apagado</string>
+    <string name="str24HourClock">Reloj de 24 horas</string>
+    <string name="strChangeTime">Cambio de hora</string>
+    <string name="title_set_dimmer_time">Ajustar el tiempo de atenuación</string>
+    <string name="msg_brightness_permission_denied">Permiso para ajustar el brillo negado</string>
+    <string name="msg_screen_brightness_setting_not_found">No se encuentra la configuración de brillo de la pantalla</string>
+</resources>

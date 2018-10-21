@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Free Dimmer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_help">Help Activity</string>
+    <string name="title_activity_manual">Manual Activity</string>
+    <string name="strDimmerOnOff">Dimmer On / Off</string>
+    <string name="strDeignTimeClockText" translatable="false">22:30</string>
+    <string name="str24HourClock">24 hour clock</string>
+    <string name="strChangeTime">Change Time</string>
+    <string name="msg_brightness_permission_denied">Permission to adjust brightness denied</string>
+    <string name="msg_screen_brightness_setting_not_found">Screen brightness setting not found</string>
+    <string name="title_set_dimmer_time">Set Dimmer Time</string>
+</resources>

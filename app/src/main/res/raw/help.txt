@@ -1,0 +1,27 @@
+<h3>What is Free Dimmer?</h3>
+
+<p>Free Dimmer will minimize the brigthness of your Android Phone or Android Tablet
+once a day at a time which you configure.  Set this time to a time shortly after you
+go to bed and if you then wake during the night and use your phone or tablet in the
+dark the screen will not dazzle you.</p>
+
+<p>It has been widely reported in the media that the blue light from tablets and phones
+used in the evening can disrupt sleep patterns. This application may assist, but at the
+current time this has not (to the best of my knowledge) been scientifically tested.</p>
+
+<h3>Source Code</h3>
+
+<p>Free Dimmer is an ad-free open source application.  The source code can be found here:</p>
+
+<p><small><tt>https://github.com/oliverpavey/free-dimmer/</tt></small></p>
+
+<h3>Background Image</h3>
+
+<p>The background image comes from WikiMedia where it was contributed by NASA, ESA,
+and the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration.</p>
+
+<p><small><tt>https://commons.wikimedia.org/wiki/File:LH_95.jpg</tt></small></p>
+
+<br/><br/><br/>
+
+

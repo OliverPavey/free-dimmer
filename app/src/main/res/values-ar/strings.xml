@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ديمر الحرة</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="title_activity_manual">نشاط يدوي</string>
+    <string name="strDimmerOnOff">باهتة تشغيل / إيقاف</string>
+    <string name="str24HourClock">ساعة بنظام 24 ساعة</string>
+    <string name="strChangeTime">غير الوقت</string>
+    <string name="msg_brightness_permission_denied">إذن لضبط سطوع نفي</string>
+    <string name="msg_screen_brightness_setting_not_found">لم يتم العثور على إعداد سطوع الشاشة</string>
+    <string name="title_set_dimmer_time">تعيين ديمر الوقت</string>
+    <string name="title_activity_help">نشاط مساعدة</string>
+</resources>

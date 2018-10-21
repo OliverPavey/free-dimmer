@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mupht dimmair</string>
+    <string name="action_settings">setings</string>
+    <string name="title_activity_help">sahaayata gatividhi</string>
+    <string name="title_activity_manual">mainual gatividhi</string>
+    <string name="strDimmerOnOff">dimmair chaaloo / band</string>
+    <string name="str24HourClock">24 ghante kee ghadee</string>
+    <string name="strChangeTime">samay parivartan</string>
+    <string name="msg_brightness_permission_denied">chamak samaayojit karane ke lie anumati asveekaar kar diya</string>
+    <string name="msg_screen_brightness_setting_not_found">skreen chamak seting nahin milee</string>
+    <string name="title_set_dimmer_time">dimmair samay set karen</string>
+</resources>

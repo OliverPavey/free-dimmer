@@ -1,3 +1,9 @@
+# Signing information
+keystore.properties
+
+# MacOS folder custom settings
+.DS_Store
+
 # Built application files
 *.apk
 *.ap_

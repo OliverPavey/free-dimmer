@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.github.oliverpavey.freedimmer.MainActivity">
+    <group android:orderInCategory="100">
+        <item
+            android:id="@+id/mnuEnable"
+            android:orderInCategory="110"
+            android:title="Enable" />
+        <item
+            android:id="@+id/mnuDisable"
+            android:orderInCategory="120"
+            android:title="Disable" />
+        <item
+            android:id="@+id/mnuSetTime"
+            android:orderInCategory="130"
+            android:title="Set Time" />
+    </group>
+    <group android:orderInCategory="800">
+        <item
+            android:id="@+id/mnuHelp"
+            android:orderInCategory="810"
+            android:title="Help"
+            app:showAsAction="never" />
+    </group>
+    <group android:orderInCategory="900">
+        <item
+            android:id="@+id/mnuExit"
+            android:orderInCategory="910"
+            android:title="Exit" />
+    </group>
+</menu>
