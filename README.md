@@ -12,6 +12,6 @@ Free Dimmer is a open-source ad-free uncharged app with no in-app purchasing.
 
 ## Published Google Play
 
-Search for "Free Dimmer" in the Google Play store, or follow this link:
+Search for "freedimmer" (with no spaces) in the Google Play store, or follow this link:
 
 https://play.google.com/store/apps/details?id=com.github.oliverpavey.freedimmer
